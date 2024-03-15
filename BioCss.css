@@ -135,6 +135,10 @@
     
 
 }
+#ResumePage1
+{
+    height: 1000px;
+}
 
 
 @media (max-width: 640px)
@@ -186,5 +190,9 @@
     #ResumePage>img
     {
         padding-bottom: 5px;
+    }
+    #ResumePage1
+    {
+        height: 900px;
     }
 }
